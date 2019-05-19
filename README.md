@@ -9,9 +9,9 @@
 
 ## How did it go?
 Well, that was a rabbit hole for sure. I spent few full days on it but over all most of the time spent was with GoRoutines. Algorithm it self was quite easy and natural.
-I never needed Goroutines before so that was a lesson learned by definitely not mastered. 
+I never needed Goroutines before so that was a lesson learned but definitely not mastered. 
 
-Though I have a code that finds Easy and Diffcult hashes under 30s on my i7 machine, I struggled to find elegant and effective solution that would pass possible left word combinations from three word phrase function to four word phrase function and of course do this using Goroutines. Hard phrase is - "wu lisp not statutory".
+Though I have a code that finds Easy and Difficult hashes under 30s on my i7 machine, I struggled to find elegant and effective solution that would pass possible left word combinations from three word phrase function to four word phrase function and of course do this using Goroutines. Just in case you wonder if I really tried Hard phrase is - "wu lisp not statutory" :)
 
 ## Improvements
 
